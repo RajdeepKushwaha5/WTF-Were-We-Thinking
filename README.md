@@ -50,5 +50,6 @@ Styling: Font Awesome icons, Google Fonts
 
 CLI: Node.js with readline-sync
 
-Warning
+**Warning**
+
 This project is for nostalgic/entertainment purposes only. Be mindful of your emotional wellbeing when interacting with AI simulations of past relationships.
